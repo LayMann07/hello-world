@@ -2,6 +2,9 @@
 * {
 margin:0;
 }
+html, body {
+  height: 100%;
+}
 body {
   align-items: center;
   background-image: linear-gradient(to right, #054f7d, #00a7cf, #efe348, #861a54, #054f7d);
@@ -17,6 +20,13 @@ body {
   animation-iteration-count: infinite;
   animation-name: gradients;
   }
+h1 {
+  color: white;
+  font-size: 2.4em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
   @keyframes gradients {
   0% {
     background-position: 0 0;
