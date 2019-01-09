@@ -4,7 +4,7 @@
 
 
 IN development 
-## How To Install MannSite (on windows)
+## How To run MannSite locally (on windows)
 1. install git on your computer. Follow [these steps](https://www.youtube.com/watch?v=SmbAn2_5uGs)
 2. open CMD and locate to your desktop by typing in ```cd Desktop```
 3. clone this dirctory by typing in ```git clone https://github.com/LayMann07/hello-world``` into the terminal
